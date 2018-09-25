@@ -1,5 +1,5 @@
 _repo: The-Chartreuse-of-Parma-Translated-from-the-French-of-Stendhal-Henri-Beyle_57638
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Loyd, Mary, Lady
@@ -10,12 +10,17 @@ contributor:
     deathdate: 1936
     gutenberg_agent_id: '921'
     url: http://www.gutenberg.org/2009/agents/921
+covers:
+- cover_type: archival
+  image_path: 57638-h/images/cover.jpg
 creator:
   author:
     agent_name: Marie-Henri Beyle (Stendhal)
     gutenberg_agent_id: '49518'
     url: http://www.gutenberg.org/2009/agents/49518
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57638#The-Chartreuse-of-Parma-Translated-from-the-French-of-Stendhal-Henri-Beyle
 gutenberg_issued: '2018-08-04'
 gutenberg_type: Text
 identifiers:
