@@ -1,0 +1,32 @@
+_repo: The-Chartreuse-of-Parma-Translated-from-the-French-of-Stendhal-Henri-Beyle_57638
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Loyd, Mary, Lady
+    aliases:
+    - Lloyd, Mary, Lady
+    - Loyd, Lady Mary Sophia (Hely-Hutchinson)
+    birthdate: 1853
+    deathdate: 1936
+    gutenberg_agent_id: '921'
+    url: http://www.gutenberg.org/2009/agents/921
+creator:
+  author:
+    agent_name: Marie-Henri Beyle (Stendhal)
+    gutenberg_agent_id: '49518'
+    url: http://www.gutenberg.org/2009/agents/49518
+description: ''
+gutenberg_issued: '2018-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57638'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Chartreuse of Parma
+
+  Translated from the French of Stendhal (Henri Beyle)'
+url: http://www.gutenberg.org/ebooks/57638
